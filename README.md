@@ -12,7 +12,9 @@ a curated collection of materials designed to assist learners at various stages 
   - **[Free Rust course developed by the Android team at Google](https://google.github.io/comprehensive-rust/)**: The course is used internally at Google when teaching Rust to experienced software engineers. They typically have a background in C++ or Java. The course covers all aspects of Rust, from basic syntax to generics and error handling. It also includes deep dives on Android, Chromium, bare-metal, and concurrency.
   - **[Yet Another Rust Resource (YARR!)](https://yet-another-rust-resource.pages.dev/introduction)** : Software engineers who know how to program in a high-level language but aren't familiar with lower-level programming and want to learn to write Rust quickly
   - **[The Rust Book (Abridged)](https://jasonwalton.ca/rust-book-abridged/)** : condensed version of "The Rust Programming Language". If you're already familiar with one or more other programming languages, then you are likely already familiar with a lot of the concepts the book covers, and you might benefit from this shorter version.
-
+  - **[The Embedded Rust Book](https://doc.rust-lang.org/beta/embedded-book/intro/index.html)** : This book uses the F3 STM32 Discovery Board and caters towards people with either some embedded background or some Rust background, however we believe everybody curious about embedded Rust programming can get something out of this book.
+  - **[The Basic F3 STM32 Discovery Board Embedded Rust Book](https://docs.rust-embedded.org/discovery/f3discovery/index.html)** : Learning the basics of embedded coding with rust using the F3 STM32 Discovery Board.
+  - **[The Basic MicroBit Embedded Rust Book](https://docs.rust-embedded.org/discovery/microbit/index.html)** : Learning the basics of embedded coding with rust using the MicroBit Discovery Board.
 
 ### Exercises
   - **[Rustlings](https://github.com/rust-lang/rustlings)** : Small exercises to get you used to reading and writing Rust code!
